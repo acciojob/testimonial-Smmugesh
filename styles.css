@@ -1,17 +1,17 @@
-.testimonial-section {
+   .main-container {
             background-color: #f5f5f5;
             padding: 30px;
         }
 
-        /* Testimonial Box */
+        /* Individual Testimonial */
         .testimonial {
             background-color: white;
-            border: 1px solid #ccc;
+            border: 1px solid #cccccc;
             padding: 20px;
             margin-bottom: 20px;
         }
 
-        /* Author Name */
+        /* Author Styling */
         .author {
             text-align: right;
             font-style: italic;
